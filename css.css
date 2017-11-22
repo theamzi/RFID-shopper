@@ -1,0 +1,61 @@
+
+
+
+
+a {
+      position:static;
+    margin-left: 50px;
+    margin-top: 300px;
+    font-size: 24px;
+    font-family: sans-serif;
+    color: dimgrey;
+}
+a:hover{
+    color: gainsboro;
+}
+
+h1 {
+    color: slategrey;
+}
+
+h2 {
+    color: slategrey;
+}
+
+
+body {
+    background-color: aliceblue;
+}
+
+
+
+.stilmall {
+    margin-top: 50px;
+
+    max-width: 500px;
+    background: #FFe;
+    padding: 30px 30px 30px 30px;
+    font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #888;
+    text-shadow: 1px 1px 1px #FFF;
+    border:2px solid #DDD;
+    border-radius: 5px;
+   
+}
+
+
+.mysql {
+    margin-top: 50px;
+    margin-left: 650px;
+    position: absolute;
+
+    max-width: 500px;
+    background: #FFe;
+    padding: 30px 30px 30px 30px;
+    font: 25px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #888;
+    text-shadow: 1px 1px 1px #FFF;
+    border:2px solid #DDD;
+    border-radius: 5px;
+   
+}
