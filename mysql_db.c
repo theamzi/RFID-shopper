@@ -1,9 +1,4 @@
-/*
- * mysql_db.c
- *
- *  Created on: 17 sep. 2015
- *      Author: shrnds
- */
+
 
 
 #include <string.h>
