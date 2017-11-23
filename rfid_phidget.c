@@ -1,9 +1,4 @@
-/*  StoreCredit API
- *  Connector to the Phidget RFID
- *
- *  Created on: 17 sep. 2015
- *      Modifying designer: Ryan Dias
- */
+
 
 
 // Copyright 2008 Phidgets Inc.  All rights reserved.
